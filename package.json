@@ -1,0 +1,21 @@
+{
+  "name": "@ya-wxapp-org/bus",
+  "version": "0.0.0",
+  "description": "wxapp bus",
+  "repository": {
+    "url": "ya-wxapp-org/bus",
+    "type": "git"
+  },
+  "main": "index.js",
+  
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": " && echo 'no tests!'"
+  },
+  "author": "fimars <foru.fy@gmail.com>",
+  "license": "MIT",  "dependencies": {},
+  "devDependencies": {
+  }
+}
