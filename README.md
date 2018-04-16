@@ -15,7 +15,7 @@ import bus from '@ya-wxapp-org/bus'
 
 // methods
 bus.on('eventName', (val) => { /* callback */ })
-bus.emit('eventName, val) // emit Event
+bus.emit('eventName', val) // emit Event
 
 bus.push('key', something) // like array.push
 bus.pop('key') // get something
